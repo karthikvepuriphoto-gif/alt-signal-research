@@ -11,3 +11,4 @@ data/condensed_*.json
 data/trump_*.zip
 *.log
 __pycache__/
+data/state/sub_*.json

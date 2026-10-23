@@ -1,0 +1,14 @@
+test,dropped_states,mean_monthly,t
+DR8,none,-0.0038,-4.5054
+LB2,none,-0.0026,-3.0164
+PO1,none,-0.0033,-2.7097
+DR8,CA,-0.0038,-5.079
+LB2,CA,-0.0019,-2.7778
+PO1,CA,-0.0023,-2.5081
+DR8,"CA,TX",-0.0033,-5.9387
+LB2,"CA,TX",-0.0017,-2.6539
+PO1,"CA,TX",-0.002,-3.0335
+DR8,"CA,TX,NY",-0.0029,-4.3272
+LB2,"CA,TX,NY",-0.0017,-2.4626
+PO1,"CA,TX,NY",-0.0022,-3.415
+PO1,industry-neutral (SIC2 demeaned),-0.0014,-2.5436

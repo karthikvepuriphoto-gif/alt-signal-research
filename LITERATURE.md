@@ -41,3 +41,15 @@ Links marked ✔ were opened/verified during this research run (2026-10-23). Oth
 | Ge, Kurov & Wolfe (2019), *Do investors care about presidential company-specific tweets?*, J. Financial Research https://doi.org/10.1111/jfir.12177 | Trump's company tweets moved prices on the day. The effect was small and short-lived. | Our daily version (n=145 negative, 80 positive) shows no significant tradeable drift. Intraday data would be needed to see the day-0 effect properly. |
 | Ante (2023), *How Elon Musk's Twitter activity moves cryptocurrency markets*, Tech. Forecasting & Social Change https://doi.org/10.1016/j.techfore.2022.122112 | Musk's tweets produce significant DOGE abnormal returns and volume within minutes. | Confirmed on the tweet day: **+3.7% DOGE vs BTC (t=2.8)**, +6.9% before June 2021 and +1.6% after. **From the next close on, nothing is left** (+0.3%, −0.5%), so you can't trade it on daily data. |
 | Bollen, Mao & Zeng (2011), *Twitter mood predicts the stock market*, J. Comp. Sci. https://doi.org/10.1016/j.jocs.2010.12.007 | 87% directional accuracy for the DJIA. | Widely failed to replicate. Not retested. |
+
+## Phase 2 (state signals)
+- Korniotis & Kumar (2013), "State-Level Business Cycles and Local Return Predictability", JF 68(3). https://doi.org/10.1111/jofi.12020
+- Pirinsky & Wang (2006), "Does Corporate Headquarters Location Matter for Stock Returns?", JF 61(4). https://doi.org/10.1111/j.1540-6261.2006.00883.x
+- Coval & Moskowitz (1999), "Home Bias at Home", JF 54(6). https://doi.org/10.1111/0022-1082.00181
+- Parsons, Sabbatucci & Titman (2020), "Geographic Lead-Lag Effects", RFS 33(10). https://doi.org/10.1093/rfs/hhz145
+- Kim, Pantzalis & Park (2012), "Political Geography and Stock Returns", JFE 106(2). https://doi.org/10.1016/j.jfineco.2012.05.011
+- Cortés & Strahan (2017), "Tracing Out Capital Flows: How Financially Integrated Banks Respond to Natural Disasters", JFE 125(1). https://doi.org/10.1016/j.jfineco.2017.04.011
+- Dranove, Garthwaite & Ody (2016), "Uncompensated Care Decreased at Hospitals in Medicaid Expansion States", Health Affairs 35(8). https://doi.org/10.1377/hlthaff.2015.1344
+- McGowan & Vendrzyk (2002), "The Relation Between Cost Shifting and Segment Profitability in the Defense-Contracting Industry", Accounting Review 77(4).
+- Gleick (2016), "Impacts of California's Ongoing Drought: Hydroelectricity Generation", Pacific Institute.
+- Data: US Drought Monitor https://droughtmonitor.unl.edu ; OpenFEMA https://www.fema.gov/about/openfema ; USAspending API https://api.usaspending.gov ; Philly Fed state coincident indexes https://www.philadelphiafed.org/surveys-and-data/regional-economic-analysis/state-coincident-indexes

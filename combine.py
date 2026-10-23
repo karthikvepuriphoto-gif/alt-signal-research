@@ -1,6 +1,6 @@
 import sys; sys.path.insert(0,"lib")
 from common import *
-F=["enso_lag1_thr0.5","hurricane","calendar","insider","events_b","congress","trump","musk","wsb"]
+F=["enso_lag1_thr0.5","hurricane","calendar","insider","events_b","congress","trump","musk","wsb","state_signals"]
 D=pd.concat([pd.read_csv(f"results/{f}.csv").assign(file=f) for f in F],ignore_index=True)
 D["q_BH"]=bh(D.p.values)
 D["survives_BH"]=D.q_BH<0.05

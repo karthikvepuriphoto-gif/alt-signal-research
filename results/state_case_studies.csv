@@ -1,0 +1,5 @@
+id,desc,value
+LB4,"Own-state peer beta controlling for SPY (Pirinsky-Wang comovement), monthly 2011-2026","median 0.653, mean 0.735, share>0 0.92, n=814"
+PO5,"PO5 CA AB1228 $20 fast-food wage signed 2023-09-28, restaurants, [+1,+5] CAR vs SPY",-0.31%
+PO6,"PO6 Murphy v NCAA 2018-05-14, gaming, [+1,+1] CAR vs SPY",0.82%
+ND6,"ND6 Texas freeze 2021-02-12..+10d, TX power/gas, [+1,+10] CAR vs SPY",-6.63%

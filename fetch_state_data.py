@@ -6,9 +6,11 @@ F={'AL':1,'AK':2,'AZ':4,'AR':5,'CA':6,'CO':8,'CT':9,'DE':10,'DC':11,'FL':12,'GA'
 def dr(st):
     p=f"data/state/usdm_{st}.csv"
     if os.path.exists(p) and os.path.getsize(p)>1000: return
-    r=requests.get(f"https://usdmdataservices.unl.edu/api/StateStatistics/GetDroughtSeverityStatisticsByAreaPercent?aoi={F[st]:02d}&startdate=1/1/2000&enddate=10/20/2026&statisticsType=1",timeout=120)
-    open(p,"w").write(r.text)
-with ThreadPoolExecutor(4) as ex: list(ex.map(dr,F))
+    for _ in range(5):
+      try:
+        r=requests.get(f"https://usdmdataservices.unl.edu/api/StateStatistics/GetDroughtSeverityStatisticsByAreaPercent?aoi={F[st]:02d}&startdate=1/1/2000&enddate=10/20/2026&statisticsType=1",timeout=120); open(p,"w").write(r.text); return
+      except Exception: time.sleep(10)
+with ThreadPoolExecutor(1) as ex: list(ex.map(dr,F))
 print("drought done",flush=True)
 # 2 FRED state coincident index + initial claims
 def fred(s):
