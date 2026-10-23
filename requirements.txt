@@ -1,0 +1,10 @@
+yfinance
+pandas
+numpy
+scipy
+statsmodels
+matplotlib
+requests
+pyarrow
+vaderSentiment
+tabulate

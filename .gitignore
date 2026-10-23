@@ -1,0 +1,13 @@
+.venv/
+data/form345/
+data/ptr/
+data/wsb/
+data/earn/
+data/eq_adj.parquet
+data/*.zip
+data/49_Industry_Portfolios_Daily.csv
+data/fomc_*.html
+data/condensed_*.json
+data/trump_*.zip
+*.log
+__pycache__/
