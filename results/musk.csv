@@ -1,0 +1,4 @@
+family,hyp,kind,n,effect,t,p,boot_p,unit,start,split,source
+C_Social,Musk Dogecoin post: tweet-day DOGE-BTC AR (NOT tradeable),crypto,68,3.7302924773573354,2.795486610885655,0.005182164830662305,0.0066,% (net 20bp if tradeable),2019-04,n/a; 58 of 90 posts in 2021,Ante 2023 (Tech. Forecasting & Soc. Change)
+C_Social,Musk Dogecoin post: next-day AR after tweet-day close,crypto,68,0.3400642533590975,0.2001546691307654,0.8413596185260652,0.8386,% (net 20bp if tradeable),2019-04,n/a; 58 of 90 posts in 2021,Ante 2023 (Tech. Forecasting & Soc. Change)
+C_Social,Musk Dogecoin post: AR days +1..+5 after tweet-day close,crypto,68,-0.45854442875177165,-0.2222609974135702,0.8241107122959996,0.8268,% (net 20bp if tradeable),2019-04,n/a; 58 of 90 posts in 2021,Ante 2023 (Tech. Forecasting & Soc. Change)

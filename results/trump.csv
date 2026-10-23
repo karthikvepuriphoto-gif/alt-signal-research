@@ -1,0 +1,5 @@
+family,hyp,kind,n,effect,t,p,unit,start,split,boot_p,source
+C_Social,Trump negative-sentiment company tweet: reaction day AR (NOT tradeable: tweet-time to close),eq,145,0.14446817890655428,1.3084575884084622,0.1907181507394866,% AR vs SPY,2016-11,n/a (2.6y sample),0.1816,"Ge, Kurov & Wolfe 2019; Born, Myers & Clark 2017"
+C_Social,Trump negative-sentiment company tweet: CAR days +1..+5 after reaction-day close (tradeable),eq,145,0.47216812392365476,1.5535014533548064,0.12030338232177475,% AR vs SPY,2016-11,n/a (2.6y sample),0.1234,"Ge, Kurov & Wolfe 2019; Born, Myers & Clark 2017"
+C_Social,Trump positive-sentiment company tweet: reaction day AR (NOT tradeable: tweet-time to close),eq,80,0.13172433314819681,0.659417849895169,0.5096274828933859,% AR vs SPY,2016-11,n/a (2.6y sample),0.5186,"Ge, Kurov & Wolfe 2019; Born, Myers & Clark 2017"
+C_Social,Trump positive-sentiment company tweet: CAR days +1..+5 after reaction-day close (tradeable),eq,80,0.15243585894665235,0.4944369009261607,0.6209976587177861,% AR vs SPY,2016-11,n/a (2.6y sample),0.6118,"Ge, Kurov & Wolfe 2019; Born, Myers & Clark 2017"

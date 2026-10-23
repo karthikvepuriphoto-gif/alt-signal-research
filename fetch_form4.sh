@@ -1,0 +1,1 @@
+for y in $(seq 2011 2026); do for q in 1 2 3 4; do f=data/form345/${y}q${q}.zip; [ -s $f ] && continue; curl -s -f -A "Karthik Vepuri research karthikvepuriphoto@gmail.com" -o $f https://www.sec.gov/files/structureddata/data/insider-transactions-data-sets/${y}q${q}_form345.zip || rm -f $f; sleep 0.5; done; done; echo DONE
