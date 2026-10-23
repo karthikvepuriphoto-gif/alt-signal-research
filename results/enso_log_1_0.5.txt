@@ -1,0 +1,45 @@
+                                                    hyp    n    effect         t         p    eff_is   eff_oos     t_oos
+90         IMF wheat | ElNino(ONI>=0.5) vs other months  107 -2.585993 -4.099280  0.000041 -2.479373 -2.686426 -2.908340
+31      FF:Coal-Mkt | LaNina(ONI<=-0.5) vs other months  238  2.744083  3.687407  0.000227  2.234183  3.607202  2.146394
+88                         IMF wheat | next1m ret ~ ONI  416 -1.230101 -3.488500  0.000486 -0.889451 -1.558351 -3.237238
+173                      ETF EWW-SPY | next3m ret ~ ONI  365 -3.120949 -3.435537  0.000591 -2.096458 -3.608849 -2.957981
+75        PPI crude | LaNina(ONI<=-0.5) vs other months  238  1.969525  3.364175  0.000768  1.127611  3.409120  2.660419
+178  Fert CF+MOS-SPY | ElNino(ONI>=0.5) vs other months  100 -3.522295 -3.220553  0.001279 -2.563578 -4.190808 -3.298370
+176                  Fert CF+MOS-SPY | next1m ret ~ ONI  405 -1.736457 -3.172428  0.001512 -0.755906 -2.492664 -4.018874
+172                      ETF EWW-SPY | next1m ret ~ ONI  367 -1.022051 -3.156410  0.001597 -0.783285 -1.044681 -2.323611
+87        IMF maize | LaNina(ONI<=-0.5) vs other months  111  2.004176  3.065374  0.002174  1.117778  2.918776  3.066624
+89                         IMF wheat | next3m ret ~ ONI  414 -2.799291 -2.855702  0.004294 -1.544577 -4.025464 -3.112815
+51     FF:Steel-Mkt | LaNina(ONI<=-0.5) vs other months  238  1.197319  2.784590  0.005360  1.022882  1.483844  1.591273
+177                  Fert CF+MOS-SPY | next3m ret ~ ONI  403 -4.012471 -2.632436  0.008477 -1.244841 -6.183416 -3.967260
+100                         Fut ZC=F | next1m ret ~ ONI  315 -1.320429 -2.585868  0.009713 -1.526271 -1.087082 -1.608579
+84                         IMF maize | next1m ret ~ ONI  416 -0.925132 -2.566657  0.010268 -0.720037 -1.119490 -2.110703
+25                        FF:Oil-Mkt | next3m ret ~ ONI  915 -1.275681 -2.533771  0.011284 -0.325132 -3.049221 -2.807056
+85                         IMF maize | next3m ret ~ ONI  414 -2.296217 -2.432672  0.014988 -1.906031 -2.675434 -2.070061
+175     ETF EWW-SPY | LaNina(ONI<=-0.5) vs other months  106  1.536166  2.382490  0.017196  0.551914  2.338508  2.678565
+28                       FF:Coal-Mkt | next1m ret ~ ONI  917 -1.195372 -2.354722  0.018537 -1.118332 -1.313691 -1.028925
+29                       FF:Coal-Mkt | next3m ret ~ ONI  915 -3.085925 -2.309334  0.020925 -3.110408 -2.992836 -0.896626
+27       FF:Oil-Mkt | LaNina(ONI<=-0.5) vs other months  238  0.880319  2.303835  0.021232  0.116732  2.213448  2.653192
+67         PPI corn | LaNina(ONI<=-0.5) vs other months  238  1.283243  2.206476  0.027351  0.374365  2.854566  2.847887
+24                        FF:Oil-Mkt | next1m ret ~ ONI  917 -0.423065 -2.193613  0.028263 -0.067899 -1.082076 -2.592423
+123        Fut CL=F | LaNina(ONI<=-0.5) vs other months   80  2.876400  2.167546  0.030193  1.345680  4.718433  2.097863
+72                         PPI crude | next1m ret ~ ONI  918 -0.834893 -2.103957  0.035382 -0.767093 -0.931188 -1.033978
+158      ETF EWM-SPY | ElNino(ONI>=0.5) vs other months   91 -1.989966 -2.099102  0.035808 -3.888445 -0.180759 -0.246535
+                                                          hyp    effect         t         p    eff_is   eff_oos     t_oos
+16                            Fut NG=F | Aug-Oct peak vs rest  5.797554  2.626138  0.008636  5.277815  6.317292  2.413461
+8                         FF:BldMt-Mkt | Aug-Oct peak vs rest -0.620809 -2.589609  0.009608 -0.641422 -0.578228 -1.087132
+14                         FF:Util-Mkt | Aug-Oct peak vs rest  0.674219  2.401239  0.016340  0.913667  0.224529  0.415355
+4          Prop ins ALL+TRV+PGR+CB-SPY | Aug-Oct peak vs rest  1.285630  2.315464  0.020588  1.454260  1.116590  1.597108
+7                       FF:Cnstr-Mkt | Jun-Nov season vs rest -0.682787 -2.233057  0.025545 -0.520533 -0.981945 -1.715497
+6                         FF:Cnstr-Mkt | Aug-Oct peak vs rest -0.733190 -2.114686  0.034457 -0.549111 -1.074427 -1.731479
+17                          Fut NG=F | Jun-Nov season vs rest  3.757442  2.057598  0.039629  2.296033  5.218850  2.129191
+9                       FF:BldMt-Mkt | Jun-Nov season vs rest -0.440463 -2.049306  0.040432 -0.620667 -0.099882 -0.205045
+2                Reins RNR+EG+ACGL-SPY | Aug-Oct peak vs rest  1.433663  2.017033  0.043692  1.238862  1.626452  1.926411
+1                       FF:Insur-Mkt | Jun-Nov season vs rest  0.440224  1.728010  0.083986  0.605600  0.131254  0.298250
+3              Reins RNR+EG+ACGL-SPY | Jun-Nov season vs rest  0.827888  1.399595  0.161635  1.313569  0.347210  0.442758
+15                       FF:Util-Mkt | Jun-Nov season vs rest  0.305621  1.254114  0.209800  0.791300 -0.602789 -1.218233
+10    Homebuilders LEN+DHI+PHM+NVR-SPY | Aug-Oct peak vs rest -0.995869 -1.129980  0.258485 -1.018703 -0.974891 -0.979650
+0                         FF:Insur-Mkt | Aug-Oct peak vs rest  0.322319  1.077934  0.281063  0.361911  0.248961  0.508466
+11  Homebuilders LEN+DHI+PHM+NVR-SPY | Jun-Nov season vs rest -0.477936 -0.622234  0.533788 -0.672982 -0.292053 -0.315177
+12                          HD+LOW-SPY | Aug-Oct peak vs rest  0.363568  0.531496  0.595075 -0.064127  0.789806  0.947364
+13                        HD+LOW-SPY | Jun-Nov season vs rest  0.290914  0.491974  0.622737  0.055944  0.521387  0.753573
+5        Prop ins ALL+TRV+PGR+CB-SPY | Jun-Nov season vs rest -0.132736 -0.266684  0.789713  0.032752 -0.300527 -0.502772
